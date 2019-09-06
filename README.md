@@ -1,2 +1,4 @@
 # oop_lab1_task1
-gggg
+## Makarevich
+#### **_Anastasiya_**
+#### ~Aleksandrovna~
